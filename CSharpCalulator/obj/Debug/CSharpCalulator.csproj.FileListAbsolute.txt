@@ -1,0 +1,10 @@
+C:\Users\kjc98\source\repos\CSharpCalulator\CSharpCalulator\bin\Debug\CSharpCalulator.exe.config
+C:\Users\kjc98\source\repos\CSharpCalulator\CSharpCalulator\bin\Debug\CSharpCalulator.exe
+C:\Users\kjc98\source\repos\CSharpCalulator\CSharpCalulator\bin\Debug\CSharpCalulator.pdb
+C:\Users\kjc98\source\repos\CSharpCalulator\CSharpCalulator\obj\Debug\CSharpCalulator.csprojAssemblyReference.cache
+C:\Users\kjc98\source\repos\CSharpCalulator\CSharpCalulator\obj\Debug\CSharpCalulator.Form1.resources
+C:\Users\kjc98\source\repos\CSharpCalulator\CSharpCalulator\obj\Debug\CSharpCalulator.Properties.Resources.resources
+C:\Users\kjc98\source\repos\CSharpCalulator\CSharpCalulator\obj\Debug\CSharpCalulator.csproj.GenerateResource.cache
+C:\Users\kjc98\source\repos\CSharpCalulator\CSharpCalulator\obj\Debug\CSharpCalulator.csproj.CoreCompileInputs.cache
+C:\Users\kjc98\source\repos\CSharpCalulator\CSharpCalulator\obj\Debug\CSharpCalulator.exe
+C:\Users\kjc98\source\repos\CSharpCalulator\CSharpCalulator\obj\Debug\CSharpCalulator.pdb
